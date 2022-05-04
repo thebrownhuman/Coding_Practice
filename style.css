@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.x {
+  border-radius: 1rem;
+  height: 30vh;
+  width: 30vh;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  color: rgb(158, 65, 65);
+  background-color: aqua;
+  margin: 1rem;
+  font-size: 1rem;
+}
+.y {
+  border-radius: 1rem;
+  height: 30vh;
+  width: 30vh;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  color: rgb(158, 65, 65);
+  background-color: aqua;
+  margin: 1rem;
+  font-size: 1rem;
+}
+.z {
+  border-radius: 1rem;
+  height: 30vh;
+  width: 30vh;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  color: rgb(158, 65, 65);
+  background-color: aqua;
+  margin: 1rem;
+  font-size: 1rem;
+}
+.shadow {
+  border-radius: 1rem;
+  height: 30vh;
+  width: 30vh;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  color: rgb(158, 65, 65);
+  background-color: aqua;
+  margin: 1rem;
+  font-size: 1rem;
+}
+button {
+  border: none;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  justify-content: space-evenly;
+  cursor: pointer;
+  margin: 1rem;
+}
